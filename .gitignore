@@ -1,0 +1,11 @@
+# working file written by the script
+lines_clean.pkl
+
+# the original dataset is not part of the repository
+DataCoSupplyChainDataset.csv
+*.zip
+
+# Python / notebook / OS clutter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
